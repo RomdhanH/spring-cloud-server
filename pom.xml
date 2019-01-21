@@ -54,6 +54,11 @@
 	</build>
 
 	<repositories>
+		<repository>
+			<id>snapshots</id>
+			<name>SnapShots</name>
+			<url>http://nexus:8081/repository/maven-snapshots/</url>
+		</repository>
 		
 		<repository>
 			<id>releases</id>
