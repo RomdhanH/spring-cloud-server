@@ -1,3 +1,3 @@
 #!groovy
-@Library('jenkins-pipeline-library-multibranch') _
+@Library('Jenkins-pipeline-library') _
 SpringCloudServer()
